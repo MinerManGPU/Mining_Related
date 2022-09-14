@@ -33,7 +33,8 @@ Raven OC Values
         - Power Limit: 0
         - SoC Frequency: 860
         - SoC VDDmax: 930
-- AMD - XFX BC-160 Mining
+- AMD BC-160
+    - XFX BC-160 Mining
         - Core Clock: 1600
         - Core Voltage: 900
         - Memory Controller Voltage: 0

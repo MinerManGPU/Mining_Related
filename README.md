@@ -2,6 +2,7 @@
 Mining Related Notes &amp; Configurations
 - HiveOS
     - Over Clocking
-        - KawPow
+        - KawPow - RVN, NEOX
+        - Ethash4G - ETC
 - RVN Full Node on HiveOS
     - Installation Steps

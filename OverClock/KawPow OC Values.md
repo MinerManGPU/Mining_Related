@@ -1,4 +1,4 @@
-Raven OC Values
+Raven/Neoxa OC Values
 - Nvidia 1080 Ti - EVGA 1080 Ti FTW 3 Gaming
     - Core: 102
     - Memory: 1036

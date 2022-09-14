@@ -1,38 +1,38 @@
-KawPow - Raven/Neoxa OC Values
+Ethash4G - ETC OC Values
 - Nvidia 1080 Ti - EVGA 1080 Ti FTW 3 Gaming
-    - Core: 102
-    - Memory: 1036
-    - Power: 180
-    - Fan: 65
+    - Core: 118
+    - Memory: 1144
+    - Fan: 57
+    - Power: 165
     - Delay: 60
     - Pill: Checked
 - Nvidia 3080 Ti - MSI RTX 3080 Ti Gaming Trio X 12 GB
-    - Core: 1560
-    - Memeory: 1634
-    - Power: 315
+    - Core: 1605
+    - Memeory: 1728
     - Fan: 75
-    - Delay: 45
+    - Power: 0
+    - Delay: <blank>
 - AMD RX 6900 XT
     - MSI Cards - MSI RX 6900 XT GAMING Z TRIO
         - Core Clock: 1375
-        - Core Voltage: 675
+        - Core Voltage: 651
         - Memory Controller Voltage: 0
-        - Memory Clock: 1050
+        - Memory Clock: 1056
         - Memory Voltage: 0
-        - Fan: 65
+        - Fan: 60
         - Power Limit: 0
-        - SoC Frequency: 885
-        - SoC VDDmax: 925
+        - SoC Frequency: 830
+        - SoC VDDmax: 960
     - XFX Cards - XFX RX 6900 XT Limited Black Edition
-        - Core Clock: 1345
+        - Core Clock: 1375
         - Core Voltage: 661
         - Memory Controller Voltage: 0
-        - Memory Clock: 1055
+        - Memory Clock: 1052 or 1056
         - Memory Voltage: 0
-        - Fan: 65
+        - Fan: 60
         - Power Limit: 0
-        - SoC Frequency: 860
-        - SoC VDDmax: 930
+        - SoC Frequency: 830
+        - SoC VDDmax: 960
 - AMD BC-160
     - XFX BC-160 Mining
         - Core Clock: 1600
@@ -40,8 +40,8 @@ KawPow - Raven/Neoxa OC Values
         - Memory Controller Voltage: 0
         - Memory Clock: 1300
         - Memory Voltage: 0
-        - Fan: 65
-        - Power Limit: 120
+        - Fan: 75
+        - Power Limit: 125
         - SoC Frequency: 0
         - SoC VDDmax: 0
 

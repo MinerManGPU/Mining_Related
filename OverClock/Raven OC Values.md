@@ -1,0 +1,46 @@
+Raven OC Values
+- Nvidia 1080 Ti - EVGA 1080 Ti FTW 3 Gaming
+    - Core: 102
+    - Memory: 1036
+    - Power: 180
+    - Fan: 65
+    - Delay: 60
+    - Pill: Checked
+- Nvidia 3080 Ti - MSI RTX 3080 Ti Gaming Trio X 12 GB
+    - Core: 1560
+    - Memeory: 1634
+    - Power: 315
+    - Fan: 75
+    - Delay: 45
+- AMD RX 6900 XT
+    - MSI Cards - MSI RX 6900 XT GAMING Z TRIO
+        - Core Clock: 1375
+        - Core Voltage: 675
+        - Memory Controller Voltage: 0
+        - Memory Clock: 1050
+        - Memory Voltage: 0
+        - Fan: 65
+        - Power Limit: 0
+        - SoC Frequency: 885
+        - SoC VDDmax: 925
+    - XFX Cards - XFX RX 6900 XT Limited Black Edition
+        - Core Clock: 1345
+        - Core Voltage: 661
+        - Memory Controller Voltage: 0
+        - Memory Clock: 1055
+        - Memory Voltage: 0
+        - Fan: 65
+        - Power Limit: 0
+        - SoC Frequency: 860
+        - SoC VDDmax: 930
+- AMD - XFX BC-160 Mining
+        - Core Clock: 1600
+        - Core Voltage: 900
+        - Memory Controller Voltage: 0
+        - Memory Clock: 1300
+        - Memory Voltage: 0
+        - Fan: 65
+        - Power Limit: 120
+        - SoC Frequency: 0
+        - SoC VDDmax: 0
+

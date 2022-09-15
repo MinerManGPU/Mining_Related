@@ -59,18 +59,6 @@ KawPow - Raven/Neoxa OC Values
         - SoC VDDmax: 800
         - 33.7 MH/s per card @ 115 Watts (Software)
 - AMD Radeon RX 6700 XT
-    - MSI Mech OC 5700 XT
-        - Core Clock: 1575
-        - Core Voltage: 675
-        - Memory Controller Voltage: 700
-        - Memory Clock: 1070
-        - Memory Voltage: 1275
-        - Fan: <blank>
-        - Power Limit: 0
-        - SoC Frequency: 980
-        - SoC VDDmax: 850
-        - 25.25 MH/s per card @ 88 Watts (Software)
-- AMD Radeon RX 5700 XT
     - Sapphire Nitro+ 6700 XT 
         - Core Clock: 1575
         - Core Voltage: 850
@@ -82,7 +70,19 @@ KawPow - Raven/Neoxa OC Values
         - SoC Frequency: 1175
         - SoC VDDmax: 975
         - 25.6 MH/s per card @ 135 Watts (At the Wall)
- - AMD Radeon RX 580
+- AMD Radeon RX 5700 XT
+    - MSI Mech OC 5700 XT
+        - Core Clock: 1575
+        - Core Voltage: 675
+        - Memory Controller Voltage: 700
+        - Memory Clock: 1070
+        - Memory Voltage: 1275
+        - Fan: <blank>
+        - Power Limit: 0
+        - SoC Frequency: 980
+        - SoC VDDmax: 850
+        - 25.25 MH/s per card @ 88 Watts (Software)
+- AMD Radeon RX 580
    - XFX RX 580 
         - Core Clock: 1165
         - Core State: 3

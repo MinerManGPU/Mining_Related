@@ -1,17 +1,19 @@
 KawPow - Raven/Neoxa OC Values
-- Nvidia 1080 Ti - EVGA 1080 Ti FTW 3 Gaming
-    - Core: 102
-    - Memory: 1036
-    - Power: 180
-    - Fan: 65
-    - Delay: 60
-    - Pill: Checked
-- Nvidia 3080 Ti - MSI RTX 3080 Ti Gaming Trio X 12 GB
-    - Core: 1560
-    - Memeory: 1634
-    - Power: 315
-    - Fan: 75
-    - Delay: 45
+- Nvidia 1080 Ti 
+    - EVGA 1080 Ti FTW 3 Gaming
+        - Core: 102
+        - Memory: 1036
+        - Power: 180
+        - Fan: 65
+        - Delay: 60
+        - Pill: Checked
+- Nvidia 3080 Ti 
+    - MSI RTX 3080 Ti Gaming Trio X 12 GB
+        - Core: 1560
+        - Memeory: 1634
+        - Power: 315
+        - Fan: 75
+        - Delay: 45
 - AMD BC-160
     - XFX BC-160 Mining
         - Core Clock: 1600

@@ -12,6 +12,17 @@ KawPow - Raven/Neoxa OC Values
     - Power: 315
     - Fan: 75
     - Delay: 45
+- AMD BC-160
+    - XFX BC-160 Mining
+        - Core Clock: 1600
+        - Core Voltage: 900
+        - Memory Controller Voltage: 0
+        - Memory Clock: 1300
+        - Memory Voltage: 0
+        - Fan: 65
+        - Power Limit: 120
+        - SoC Frequency: 0
+        - SoC VDDmax: 0
 - AMD RX 6900 XT
     - MSI Cards - MSI RX 6900 XT GAMING Z TRIO
         - Core Clock: 1375
@@ -33,17 +44,6 @@ KawPow - Raven/Neoxa OC Values
         - Power Limit: 0
         - SoC Frequency: 860
         - SoC VDDmax: 930
-- AMD BC-160
-    - XFX BC-160 Mining
-        - Core Clock: 1600
-        - Core Voltage: 900
-        - Memory Controller Voltage: 0
-        - Memory Clock: 1300
-        - Memory Voltage: 0
-        - Fan: 65
-        - Power Limit: 120
-        - SoC Frequency: 0
-        - SoC VDDmax: 0
 - AMD Radeon RX 6800
     - Reference Models
         - Core Clock: 1350
@@ -55,4 +55,42 @@ KawPow - Raven/Neoxa OC Values
         - Power Limit: <blank>
         - SoC Frequency: 760
         - SoC VDDmax: 800
-        - 33.7 MH/s per card @ 115W (Software)
+        - 33.7 MH/s per card @ 115 Watts (Software)
+- AMD Radeon RX 6700 XT
+    - MSI Mech OC 5700 XT
+        - Core Clock: 1575
+        - Core Voltage: 675
+        - Memory Controller Voltage: 700
+        - Memory Clock: 1070
+        - Memory Voltage: 1275
+        - Fan: <blank>
+        - Power Limit: 0
+        - SoC Frequency: 980
+        - SoC VDDmax: 850
+        - 25.25 MH/s per card @ 88 Watts (Software)
+- AMD Radeon RX 5700 XT
+    - Sapphire Nitro+ 6700 XT 
+        - Core Clock: 1575
+        - Core Voltage: 850
+        - Memory Controller Voltage: 785
+        - Memory Clock: 1100
+        - Memory Voltage: 1300
+        - Fan: <blank>
+        - Power Limit: <blank>
+        - SoC Frequency: 1175
+        - SoC VDDmax: 975
+        - 25.6 MH/s per card @ 135 Watts (At the Wall)
+ - AMD Radeon RX 580
+   - XFX RX 580 
+        - Core Clock: 1165
+        - Core State: 3
+        - Core Voltage: 860
+        - Memory Controller Voltage: 0
+        - Memory Clock: 1950
+        - Memeory State: 1
+        - Memory Voltage: 850
+        - Fan: <blank>
+        - Power Limit: 100
+        - Aggressive undervolting: Enabled
+        - Tweak: amdmemtweak -- REF 20
+        - 14.4 MH/s per card @ 86 Watts (Software)

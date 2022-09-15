@@ -44,4 +44,15 @@ KawPow - Raven/Neoxa OC Values
         - Power Limit: 120
         - SoC Frequency: 0
         - SoC VDDmax: 0
-
+- AMD Radeon RX 6800
+    - Reference Models
+        - Core Clock: 1350
+        - Core Voltage: 637
+        - Memory Controller Voltage: 700
+        - Memory Clock: 1061
+        - Memory Voltage: 1240
+        - Fan: 60
+        - Power Limit: <blank>
+        - SoC Frequency: 760
+        - SoC VDDmax: 800
+        - 33.7 MH/s per card @ 115W (Software)

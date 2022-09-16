@@ -1,5 +1,7 @@
 # KawPow - Raven/Neoxa OC Values
-## Settings listed are for HiveOS Overclocking Dialog Box Entry  Hashrates listed are for RVN, NEOX are slight higher  Power listings are as reported by HiveOS Software, at the wall power will be higher to account for the motherboard and power supply efficiencies
+## Settings listed are for HiveOS Overclocking Dialog Box Entry
+## Hashrates listed are for RVN, NEOX are slight higher  
+## Power listings are as reported by HiveOS Software, at the wall power will be higher to account for the motherboard and power supply efficiencies
 
 - Nvidia 1080 Ti 
     - EVGA 1080 Ti FTW 3 Gaming

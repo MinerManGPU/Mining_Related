@@ -1,19 +1,45 @@
-KawPow - Raven/Neoxa OC Values
+# KawPow - Raven/Neoxa OC Values
+## Settings listed are for HiveOS Overclocking Dialog Box Entry  Hashrates listed are for RVN, NEOX are slight higher  Power listings are as reported by HiveOS Software, at the wall power will be higher to account for the motherboard and power supply efficiencies
+
 - Nvidia 1080 Ti 
     - EVGA 1080 Ti FTW 3 Gaming
         - Core: 102
         - Memory: 1036
-        - Power: 180
         - Fan: 65
+        - Power: 180
         - Delay: 60
         - Pill: Checked
+- Nvidia 3070
+    - EVGA RTX 3070 Samsung 8 GB
+        - Core: 100
+        - Memeory: 2600
+        - Power: 164
+        - Fan: 100
+        - Delay: <blank>
+        - 31 MH/s per card @ 164 Watts (Software)
+- Nvidia 3070 Ti 
+    - EVGA Founder Edition RTX 3070 Ti Micron 8 GB
+        - Core: 1200
+        - Memeory: 2000
+        - Fan: 100
+        - Power: 0
+        - Delay: <blank>
+        - 37.10 MH/s per card @ 225 Watts (Software)
 - Nvidia 3080 Ti 
-    - MSI RTX 3080 Ti Gaming Trio X 12 GB
+    - EVGA Founder Edition RTX 3080 Ti Micron 12 GB
+        - Core: 1200
+        - Memeory: 1750
+        - Fan: 100
+        - Power: 0
+        - Delay: <blank>
+        - 58.10 MH/s per card @ 320 Watts (Software)
+    - MSI RTX 3080 Ti Gaming Trio X Samsung 12 GB
         - Core: 1560
         - Memeory: 1634
-        - Power: 315
         - Fan: 75
+        - Power: 315
         - Delay: 45
+        - 58.40 MH/s per card @ 325 Watts (Software)
 - AMD BC-160
     - XFX BC-160 Mining
         - Core Clock: 1600

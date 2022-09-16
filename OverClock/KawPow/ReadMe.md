@@ -1,5 +1,5 @@
 # KawPow - Raven/Neoxa OC Values
-## Settings listed are for HiveOS Overclocking Dialog Box Entry<br /><br />Hashrates listed are for RVN, NEOX are slight higher<br /><br />Power listings are as reported by HiveOS Software, at the wall power will be higher to account for the motherboard and power supply efficiencies
+## Settings listed are for HiveOS Overclocking Dialog Box Entry.<br /><br />Hashrates listed are for RVN, NEOX are slight higher.<br /><br />Power listings are as reported by HiveOS Software, at the wall power will be higher to account for the motherboard, peripherals and power supply efficiencies.
 
 - Nvidia 1080 Ti 
     - EVGA 1080 Ti FTW 3 Gaming
@@ -18,7 +18,7 @@
         - Delay: <blank>
         - 31 MH/s per card @ 164 Watts (Software)
 - Nvidia 3070 Ti 
-    - EVGA Founder Edition RTX 3070 Ti Micron 8 GB
+    - EVGA RTX 3070 Ti Founder Edition Micron 8 GB
         - Core: 1200
         - Memeory: 2000
         - Fan: 100
@@ -26,7 +26,7 @@
         - Delay: <blank>
         - 37.10 MH/s per card @ 225 Watts (Software)
 - Nvidia 3080 Ti 
-    - EVGA Founder Edition RTX 3080 Ti Micron 12 GB
+    - EVGA RTX 3080 Ti Founder Edition Micron 12 GB
         - Core: 1200
         - Memeory: 1750
         - Fan: 100

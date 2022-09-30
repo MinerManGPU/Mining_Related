@@ -1,6 +1,15 @@
 # KawPow - Raven/Neoxa OC Values
 ## Settings listed are for HiveOS Overclocking Dialog Box Entry.<br /><br />Hashrates listed are for RVN, NEOX are slight higher.<br /><br />Power listings are as reported by HiveOS Software, at the wall power will be higher to account for the motherboard, peripherals and power supply efficiencies.
 
+- Nvidia 1080
+    - EVGA 1080
+        - Core: 100
+        - Memory: 2000
+        - Fan: 80
+        - Power: 145
+        - Delay: <blank>
+        - Pill: Checked
+        - 18.80 MH/s per card @ 145 Watts (Software)
 - Nvidia 1080 Ti 
     - EVGA 1080 Ti FTW 3 Gaming
         - Core: 102
@@ -9,12 +18,21 @@
         - Power: 180
         - Delay: 60
         - Pill: Checked
+- Nvidia 3060
+    - Asus RTX 3060 12 GB
+        - Core: 100
+        - Memeory: 2000
+        - Fan: 80
+        - Power: 140
+        - Delay: <blank>
+        - Led: Off
+        - 23.81 MH/s per card @ 140 Watts (Software)
 - Nvidia 3070
     - EVGA RTX 3070 Samsung 8 GB
         - Core: 100
         - Memeory: 2600
-        - Power: 164
         - Fan: 100
+        - Power: 164
         - Delay: <blank>
         - 31 MH/s per card @ 164 Watts (Software)
 - Nvidia 3070 Ti 
@@ -96,6 +114,18 @@
         - SoC Frequency: 1175
         - SoC VDDmax: 975
         - 25.6 MH/s per card @ 135 Watts (At the Wall)
+- AMD Radeon RX 6600 XT
+    - Sapphire 6600 XT 
+        - Core Clock: 1425
+        - Core Voltage: 640
+        - Memory Controller Voltage: <blank>
+        - Memory Clock: 2270
+        - Memory Voltage: <blank>
+        - Fan: 60
+        - Power Limit: <blank>
+        - SoC Frequency: <blank>
+        - SoC VDDmax: <blank>
+        - 15.81 MH/s per card
 - AMD Radeon RX 5700 XT
     - MSI Mech OC 5700 XT
         - Core Clock: 1575

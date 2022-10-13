@@ -10,5 +10,7 @@
 
 - Asset files
     - Raven coin
-        - /url assets/Install%20Raven%20Core%20Node%20on%20HiveOS.pdf."Raven_Node"
+        - url assets/Install%20Raven%20Core%20Node%20on%20HiveOS.pdf."Raven_Node"
     - 
+
+https://github.com/Luckyblocks-dev/Raven_HiveOS_Full_Node
